@@ -1,4 +1,4 @@
-import Listing from "./components/Listing/Listing";
+import Listing from "./components/Listing";
 import "./App.css";
 import sourceData from "./assets/sourceData.json";
 
